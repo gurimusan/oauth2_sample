@@ -1,0 +1,11 @@
+arrow==0.7.0
+bcrypt==2.0.0
+colander==1.2
+passlib==1.6.5
+pyramid==1.6.1
+pyramid-tm==0.12.1
+SQLAlchemy==1.0.11
+SQLAlchemy-Utils==0.31.6
+transaction==1.4.4
+zope.sqlalchemy==0.7.6
+waitress
